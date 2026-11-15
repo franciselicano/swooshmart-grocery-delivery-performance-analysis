@@ -1,4 +1,4 @@
-# SwooshMart & Grocery: Delivery Performance Analysis
+# SwooshMart & Grocery Delivery Performance Analysis
 
 ## Project Overview
 
