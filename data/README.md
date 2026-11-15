@@ -1,1 +1,1 @@
-Data files and glossary for the grocery delivery performance analysis.
+Data files and glossary for the SwooshMart and grocery store delivery performance analysis.
